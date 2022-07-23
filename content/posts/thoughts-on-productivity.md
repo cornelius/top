@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on Productivity"
 date: 2022-07-23T17:18:58+02:00
-draft: true
+draft: false
 ---
 
 This site collects some thoughts about productivity.
