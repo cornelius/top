@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://cornelius.github.io/top/'
 languageCode = 'en-us'
 title = 'Thoughts on productivity'
 theme = "diary"
