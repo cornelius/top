@@ -10,7 +10,7 @@ This site collects some thoughts about productivity.
 
 We all have limited time and energy. How to put this to good use is a question which is relevant to most people. If you have ideas, ambitions, goals, dreams, you will have to be mindful about how you go about them in order to achieve what you want to achieve.
 
-It probably is dependent on your personality how much you want to think about productivity. I'm for example an [https://en.wikipedia.org/wiki/Enneagram_of_Personality](Enneagram Type) Three, nick-named the "achiever". Productivity often is on my mind. 
+It probably is dependent on your personality how much you want to think about productivity. I'm for example an [Enneagram Type Three](https://en.wikipedia.org/wiki/Enneagram_of_Personality), nick-named the "achiever". Productivity often is on my mind. 
 
 ## What is productivity?
 
