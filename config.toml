@@ -1,4 +1,5 @@
 baseURL = 'https://cornelius.github.io/top/'
+relativeURLs = true
 languageCode = 'en-us'
 title = 'Thoughts on productivity'
 theme = "diary"
